@@ -1,0 +1,31 @@
+class StudentData
+{
+	int id;
+	String name;
+	
+	public void Display()
+	{
+		System.out.println("Student ID is : "+id);
+		System.out.println("Student Name is : "+name);
+	}
+}
+
+public class C2_ObjectCreationAndInstancevariables {
+
+	public static void main(String[] args) {
+		
+		StudentData stud1 = new StudentData();
+		StudentData stud2 = new StudentData();
+		
+		stud1.id = 101;
+		stud1.name = "Shantanu";
+		
+		stud2.id = 102;
+		stud2.name = "Sushant";
+		
+		stud1.Display();
+		stud2.Display();
+		
+	}
+
+}

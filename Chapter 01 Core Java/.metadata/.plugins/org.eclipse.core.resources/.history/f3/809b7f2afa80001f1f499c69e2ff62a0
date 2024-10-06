@@ -1,0 +1,9 @@
+
+public class C4_CodeSnippet_03_SameMethod_Ambiguity {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

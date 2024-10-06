@@ -1,0 +1,12 @@
+
+public class C3_InstanceVariables {
+
+	int i = 10; // instance variable
+	public static void main(String[] args) {
+		
+//		System.out.println(i); CE : instance variable can't be accessed directly in static context
+		
+		
+	}
+
+}

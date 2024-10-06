@@ -1,0 +1,20 @@
+class Calculator300
+{
+	int a,b,res;
+	
+	int calci() 
+	{
+		a = 10;
+		b = 20;
+		res =  a + b;
+		return res;
+	}
+}
+public class C4_04_DefaultMethodUsingReturn {
+
+	public static void main(String[] args) {
+		Calculator300 obj1 = new Calculator300();
+		System.out.println(obj1.calci();
+	}
+
+}

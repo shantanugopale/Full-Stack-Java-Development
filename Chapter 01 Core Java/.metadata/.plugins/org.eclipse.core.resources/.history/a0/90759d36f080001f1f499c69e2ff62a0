@@ -1,0 +1,30 @@
+//	Syntax: -	returntype methodName(input parameters)
+//				{
+//					body
+//				}
+class Calculator
+{
+	int a,b,c;
+	
+	void calci()
+	{
+		a = 10;
+		b = 20;
+		c = a + b;
+		System.out.println("Addition is :"+c);
+	}
+	
+	
+	
+}
+
+
+public class C1_MethodStructure {
+	public static void main(String[] args) {
+		
+
+		
+		
+		
+	}
+}

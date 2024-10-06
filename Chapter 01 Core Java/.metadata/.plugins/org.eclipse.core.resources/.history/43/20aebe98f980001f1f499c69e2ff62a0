@@ -1,0 +1,16 @@
+class Cs2
+{
+	float add(int a, float b)
+	{
+		return a + b;
+	}
+}
+
+public class C3_CodeSnippet_02_WithNumerictypePromotion {
+
+	public static void main(String[] args) {
+		C3_CodeSnippet_02_WithNumerictypePromotion obj = new C3_CodeSnippet_02_WithNumerictypePromotion();
+		System.out.println(obj.add(10, 20));
+	}
+
+}

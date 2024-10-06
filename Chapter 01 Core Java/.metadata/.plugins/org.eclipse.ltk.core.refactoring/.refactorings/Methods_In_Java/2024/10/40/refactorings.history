@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;C4_04_DefaultMethodUsingReturn&apos; to &apos;C4_03_DefaultMethodUsingReturn&apos;&#x0D;&#x0A;- Original project: &apos;Methods_In_Java&apos;&#x0D;&#x0A;- Original element: &apos;C4_04_DefaultMethodUsingReturn&apos;&#x0D;&#x0A;- Renamed element: &apos;C4_03_DefaultMethodUsingReturn&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;C4_04_DefaultMethodUsingReturn&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{C4_04_DefaultMethodUsingReturn.java[C4_04_DefaultMethodUsingReturn" matchStrategy="1" name="C4_03_DefaultMethodUsingReturn" qualified="false" references="true" similarDeclarations="false" stamp="1727896769506" textual="false" version="1.0"/>
+</session>
